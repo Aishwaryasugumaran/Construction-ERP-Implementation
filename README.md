@@ -26,8 +26,8 @@
 ## Module 1:Project Module
 | Module        | Starting Date | Ending Date  |
 | ------------- |:-------------:| ------------:|
-| Project       | 17-12-2017    |  26-12-2017    |
-| Reporting     | 27-12-2017    |  6-01-2018   |
+| Project       | 17-12-2017    |  26-12-2017  |
+| Reporting     | 27-12-2017    |  06-01-2018  |
 
 
 ## Module 2:Sales Module
