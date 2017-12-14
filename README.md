@@ -41,3 +41,20 @@
 | Reporting     | 16-01-2018     | 20-01-2018   |
 
 
+## Module 3:Purchase Module
+| Module             | Starting Date  | Ending Date  |
+| ------------------ |:--------------:| ------------:|
+| Product            | 07-01-2018     | 14-01-2018   |
+| Purchase Management| 15-01-2018     | 22-01-2018   |
+| Reporting          | 23-01-2018     | 31-01-2018   |
+
+
+## Module 4:Warehouse Module
+| Module        | Starting Date  | Ending Date  |
+| ------------- |:--------------:| ------------:|
+| Warehouse     | 28-01-2018     | 31-01-2018   |
+| Masters       | 01-02-2018     | 04-02-2018   |
+| Reporting     | 05-02-2018     | 10-02-2018   |
+
+
+
