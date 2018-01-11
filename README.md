@@ -66,35 +66,32 @@
 ## Module 1:Project Module
 | Module        | Starting Date | Ending Date  |
 | ------------- |:-------------:| ------------:|
-| Project       | 17-12-2017    |  26-12-2017  |
-| Reporting     | 27-12-2017    |  06-01-2018  |
+| Project       | 17-12-2017    |  06-01-2018  |
+| Reporting     | 07-03-2018    |  20-03-2018  |
 
 
 ## Module 2:Sales Module
 | Module        | Starting Date  | Ending Date  |
 | ------------- |:--------------:| ------------:|
-| Sales         | 24-12-2017     | 28-12-2017   |
-| Price List    | 29-12-2017     | 01-01-2018   |
-| Payment Stages| 02-01-2018     | 05-01-2018   |
-| Demandss      | 06-01-2018     | 09-01-2018   |
-| Receipts      | 10-01-2018     | 16-01-2018   |
-| Reporting     | 16-01-2018     | 20-01-2018   |
+| Sales         | 07-01-2018     | 16-01-2018   |
+| Price List    | 07-01-2018     | 16-01-2018   |
+| Payment Stages| 07-01-2018     | 16-01-2018   |
+| Demandss      | 07-01-2018     | 09-01-2018   |
+| Receipts      | 16-01-2018     | 20-01-2018   |
 
 
 ## Module 3:Purchase Module
 | Module             | Starting Date  | Ending Date  |
 | ------------------ |:--------------:| ------------:|
-| Product            | 07-01-2018     | 14-01-2018   |
-| Purchase Management| 15-01-2018     | 22-01-2018   |
-| Reporting          | 23-01-2018     | 31-01-2018   |
+| Product            | 21-01-2018     | 14-02-2018   |
+| Purchase Management| 21-01-2018     | 14-02-2018   |
 
 
 ## Module 4:Warehouse Module
 | Module        | Starting Date  | Ending Date  |
 | ------------- |:--------------:| ------------:|
-| Warehouse     | 28-01-2018     | 31-01-2018   |
-| Masters       | 01-02-2018     | 04-02-2018   |
-| Reporting     | 05-02-2018     | 10-02-2018   |
+| Warehouse     | 15-02-2018     | 06-03-2018   |
+| Masters       | 15-02-2018     | 06-03-2018   |
 
 
 
