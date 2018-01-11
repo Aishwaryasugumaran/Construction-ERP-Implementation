@@ -20,23 +20,44 @@
   
 ## Module 2:Sales Module(By S.Aishwarya)
 1. Sales
-  1.1 Flat Allotment Entry
-  1.2 Flat Allotment Approval
-  1.3 Flat Cancellation Entry
-  1.4 
+  - Flat Allotment Entry
+  - Flat Allotment Approval
+  - Flat Cancellation Entry
+  - Flat Cancellation Approval
+  - Flat Transfer Entry
+  - Flat Transfer Approval
 2. Price List
+  - Price List Entry
+  - Price List Approval
 3. Payment Stages
-4. Demands
-5. Receipts
-6. Reporting
+  - Payment Schedule Stage
+  - Payment Schedule Entry
+  - Payment Schedule Approval    
+4. Receipts
+  - Customer Receipts 
+  - Receipt Cancellation
+
 ## Module 3:Purchase Module(By S.Jaya Chithra)
 1. Product
+  - Product Master Entry
+  - Product Master Approval
+  - Unit Of Measure
 2. Purchase Mangement
-3. Reporting
+  - Material Request
+  - Purchase Order
+  - Purchase Order Approval
+  - Service Job Order
+  - Service Job Approval
+
 ## Module 4:WareHouse Module(By G.Mythili)
 1. Warehouse
+  - Goods Receipt Note
+  - Purchase Invoice Entry
+  - Purchase Invoice Approval
 2. Masters
-3. Reporting
+  - Inward
+  - Outward
+
 
 
 
