@@ -1,13 +1,10 @@
 # Construction-ERP-Implementation
 ## Module Split-Up
 ## Module 1:Project Module (By A.Aneesha)
-1. Project
-
-  1.1 Project Master Entry
-  
-  1.2 Project Master Approval
-  
-  1.3 Project Structure
+  1. Project
+    1.1 Project Master Entry
+    1.2 Project Master Approval
+    1.3 Project Structure
   
 2. Reporting
   2.1 Project Detail Report (Project)
