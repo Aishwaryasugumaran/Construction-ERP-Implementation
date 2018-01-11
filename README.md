@@ -2,21 +2,21 @@
 ## Module Split-Up
 ## Module 1:Project Module (By A.Aneesha)
   1. Project
-    1.1 Project Master Entry
-    1.2 Project Master Approval
-    1.3 Project Structure
+     - Project Master Entry
+     - Project Master Approval
+     - Project Structure
   
 2. Reporting
-  2.1 Project Detail Report (Project)
-  2.2 Payment Completed (Sales)
-  2.3 Categorywise Report (Sales)
-  2.4 Outstanding Demand (Sales)
-  2.5 Material Requestion Register (Purchase)
-  2.6 Purchase Order Register (Purchase)
-  2.7 Service Order Register (Purchase)
-  2.8 Goods Receipts Register (Warehouse)
-  2.9 Issue Register (Warehouse)
-  2.10 Puchase Invoice Register (Warehouse)
+     - Project Detail Report (Project)
+     - Payment Completed (Sales)
+     - Categorywise Report (Sales)
+     - Outstanding Demand (Sales)
+     - Material Requestion Register (Purchase)
+     - Purchase Order Register (Purchase)
+     - Service Order Register (Purchase)
+     - Goods Receipts Register (Warehouse)
+     - Issue Register (Warehouse)
+     - Puchase Invoice Register (Warehouse)
   
 ## Module 2:Sales Module(By S.Aishwarya)
 1. Sales
