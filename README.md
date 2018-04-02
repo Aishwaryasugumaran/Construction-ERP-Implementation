@@ -6,17 +6,6 @@
      - Project Master Approval
      - Project Structure
   
-2. Reporting
-     - Project Detail Report (Project)
-     - Payment Completed (Sales)
-     - Categorywise Report (Sales)
-     - Outstanding Demand (Sales)
-     - Material Requestion Register (Purchase)
-     - Purchase Order Register (Purchase)
-     - Service Order Register (Purchase)
-     - Goods Receipts Register (Warehouse)
-     - Issue Register (Warehouse)
-     - Puchase Invoice Register (Warehouse)
   
 ## Module 2:Sales Module(By S.Aishwarya)
 1. Sales
